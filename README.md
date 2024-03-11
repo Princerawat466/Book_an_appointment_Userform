@@ -1,7 +1,8 @@
 # Book_an_appointment_Userform
 A Hospital Booking Userform in VBA (Visual Basic Applications) is a graphical interface designed to facilitate the process of booking appointments or services within a hospital setting. It provides a user-friendly way for staff members to input relevant information and schedule appointments efficiently.
 
-After launching the visual graphic of userform have two option button.
+Launching the visual graphic of userform have two option button.
+
 1. first button allow user to enter the details of patient.
 2. Second button allow to Search or Update the entered details of patient.
 3. Exit button that allows users to close or exit the program. it will trigger a confirmation dialog.
@@ -26,3 +27,13 @@ Search and update: The userform includes various input fields where users can se
 
 
 Overall, a Hospital Booking Userform in VBA serves as a convenient and efficient tool for managing appointment scheduling within a healthcare facility, streamlining the process for both staff and patients alike.
+
+# Home Page
+
+![Screenshot 2024-03-11 170602](https://github.com/Princerawat466/Book_an_appointment_Userform/assets/162704017/d39cedc7-9cf0-4718-92f7-7d72d1d9b06d)
+
+# Patient Details
+![Screenshot 2024-03-10 191407](https://github.com/Princerawat466/Book_an_appointment_Userform/assets/162704017/153159aa-a5a5-48e1-9440-4f5fea35fc6b)
+
+# Search/Update 
+![Screenshot 2024-03-10 192828](https://github.com/Princerawat466/Book_an_appointment_Userform/assets/162704017/f46b1b26-f520-40fa-9c0e-7065121718af)
