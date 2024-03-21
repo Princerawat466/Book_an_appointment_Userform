@@ -8,7 +8,8 @@ Launching the visual graphic of userform have two option button.
 3. Exit button that allows users to close or exit the program. it will trigger a confirmation dialog.
    This dialog prompts the user to confirm their intention to exit the program.
 
-Patient detail Input Fields: The userform includes various input fields where users can enter essential details such as:
+# Patient detail Input Fields:
+The userform includes various input fields where users can enter essential details such as:
 
 1. Patient Name: Allows users to input the name of the patient.
 2. Gender: Check box to select the gender of patient.
@@ -19,7 +20,8 @@ Patient detail Input Fields: The userform includes various input fields where us
 7. Booking Confirm Msgbox: Once all necessary information is entered, the userform Show "appoinment booked successfully" msgbox status. This might involve by clicking a "Book Appointment" button.
 8. Back button: The back button available to go home page of userform. 
 
-Search and update: The userform includes various input fields where users can search and update the essential details:
+# Search and update:
+The userform includes various input fields where users can search and update the essential details:
 
 1. Search button: Enter Patient Name and Gender to get the booking detail of patient. this might involving by clicking a "Search" button.
 2. Search and Edit Functionality: In more advanced implementations, the userform may include features for searching existing appointments or editing booked appointments. This allows users to manage their appointments efficiently.
